@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Hannie AI Try-On Studio",
+  "description": "An AI-powered virtual jewelry try-on application. Upload a photo of a model and images of jewelry to generate a realistic image of the model wearing the piece.",
+  "requestFramePermissions": []
+}
